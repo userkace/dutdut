@@ -3,10 +3,12 @@
 html{
      background-color: #f5aeb8;
      height: 100dvh;
+     width: 100dvw;
 }
 
 body{
      height: 90dvh;
+     width: 90dvw;
      display: flex;
      justify-content: center;
 }
